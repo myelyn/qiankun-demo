@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+#app {
+  min-width: 100vw;
+  min-height: 100vh;
+}
+
+ul, li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+}
